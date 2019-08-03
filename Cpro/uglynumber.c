@@ -1,4 +1,5 @@
-#include<stdio.h>
+//This program will give you 150th ugly number 5832.
+include<stdio.h>
 int Maxdivide(int a, int b){
 	while(a%b == 0){
 		a = a/b;
